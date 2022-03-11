@@ -1,0 +1,6 @@
+We want a unity scene that are 15 meters long/deep and 5 meters white.
+from floor to top we want 3 meter.
+the walls shall be in purple nuances - and slowly shift to green and orange.
+In the back of the room there is a square, thats a bit lighter than the room.
+
+great. but its important its as low poly as possible, and that it has the measurements i asked for - and the square as well
